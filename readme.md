@@ -10,6 +10,7 @@ Input/Output unit:
 ![image](https://github.com/s106321059/finalproject/blob/master/led.PNG)
 
 4BITSW，S1用作清除所有記錄。
+
 ![image](https://github.com/s106321059/finalproject/blob/master/4BITsw.PNG)
 
 功能說明:
