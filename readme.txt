@@ -8,7 +8,7 @@ Input/Output unit:
 16BITS LED，D1是代表玩家1贏，D2代表平手，D3代表玩家2贏，D4代表錯誤(可能有一方沒有出拳或出多過一個)。
 
 4BITSW，S1用作清除所有記錄。
-
+![image](https://github.com/s106321059/finalproject/blob/master/4BITsw.PNG)
 功能說明:
 兩位玩家進行猜拳，先贏3次的得到勝利。
 
