@@ -30,3 +30,5 @@ Clear連到FPGA中4BITS SW中S1位置
 A_count連到FPGA中16 BITS LED中 D8,D9位置
 B_count連到FPGA中16 BITS LED中 D15,D16位置
 ans連到FPGA中16 BITS LED中 D1,D2,D3,D4位置
+
+https://drive.google.com/open?id=1E0SvQZ6sXrsiiYVWmhgqVNSjfE6-fJp6
