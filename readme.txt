@@ -6,7 +6,7 @@ Input/Output unit:
 8DIPSW開關，用來控制玩家1(藍色方1,2,3)及玩家2(紅色方1,2,3)出拳，紅色開關(4)是判定哪一方贏。
 
 16BITS LED，D1是代表玩家1贏，D2代表平手，D3代表玩家2贏，D4代表錯誤(可能有一方沒有出拳或出多過一個)。
-
+![image](https://github.com/s106321059/finalproject/blob/master/led.PNG)
 4BITSW，S1用作清除所有記錄。
 ![image](https://github.com/s106321059/finalproject/blob/master/4BITsw.PNG)
 功能說明:
