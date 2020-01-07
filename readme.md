@@ -48,7 +48,6 @@ B_count連到FPGA中16 BITS LED中 D15,D16位置
 
 ans連到FPGA中16 BITS LED中 D1,D2,D3,D4位置
 
-https://drive.google.com/file/d/1E0SvQZ6sXrsiiYVWmhgqVNSjfE6-fJp6/view?usp=sharing
 
-<a href="https://drive.google.com/file/d/1E0SvQZ6sXrsiiYVWmhgqVNSjfE6-fJp6/view?usp=sharing" title="Demo Video" rel="nofollow"><img src="" alt="Demo Video" width="500" style="max-width:100%;"></a>
+<a href="https://drive.google.com/file/d/1E0SvQZ6sXrsiiYVWmhgqVNSjfE6-fJp6/view?usp=sharing" title="Demo Video" rel="nofollow"><img src="https://github.com/s106321059/finalproject/blob/master/8bitsw.PNG" alt="Demo Video" width="500" style="max-width:100%;"></a>
 
